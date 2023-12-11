@@ -19,8 +19,8 @@ The primary goal of the **'DataCleaner'** class is to enhance the user's experie
 
 To use the DataCleaner class, you need to have Python installed on your system along with the necessary libraries. Here's how you can install it:
 
-- '''git clone https://github.com/rchadha33/DataCleaner.git'''
-- '''cd DataCleaner'''
+- ```git clone https://github.com/rchadha33/DataCleaner.git```
+- ```cd DataCleaner```
 - Open the CleaningClassMDS.ipynb notebook:
     - If you have Jupyter Notebook or JupyterLab installed, you can open it directly in your browser.
     - Alternatively, you can use an IDE that supports Jupyter notebooks, such as Visual Studio Code or PyCharm.
@@ -29,7 +29,8 @@ The **'CleaningClassMDS.ipynb'** notebook contains the DataCleaner class impleme
 
 ### Usage
 Here's a simple example of how to use the **'DataCleaner'** class:
-'''python
+
+```python
 import pandas as pd
 from data_cleaner import DataCleaner
 
@@ -46,8 +47,8 @@ cleaned_df = cleaner.apply_cleaning_method(df, 'Median + Most Frequent')
 cleaner.visualize_effect_of_methods()
 
 # Visualize the effect of all cleaning methods sorted by interestingness
-data_cleaner.visualize_all_methods()
-'''
+cleaner.visualize_all_methods()
+```
 
 ### Contributions
 Rachit Chadha (MS Computer Science) & Brian Sang (PhD Electrical and Computer Engineering) @ Georgia Institute of Technology.
