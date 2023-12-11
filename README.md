@@ -51,7 +51,7 @@ cleaner.visualize_all_methods()
 ```
 
 #### Contributions
-Rachit Chadha (MS Computer Science) & Brian Sang (PhD Electrical and Computer Engineering) @ Georgia Institute of Technology.
+*Rachit Chadha* (MS Computer Science) & *Brian Sang* (PhD Electrical and Computer Engineering) @ Georgia Institute of Technology.
 
 
 
