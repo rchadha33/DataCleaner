@@ -97,13 +97,13 @@ cleaner.visualize_all_methods()
 
 Below is an Example Usage on the *US CENSUS* Dataset. 
 - Step 1: Data cleaning issue identification on US Census Data
-![Step 1](images/Step1.jpg)
+![Step 1](images/Step1.png)
 
 - Step 2: Cleaning Method Visualizations after pruning based on Interestingness
-![Step 2](images/Step2.jpg)
+![Step 2](images/Step2.png)
 
 - Step 3 (Optional): Visualizing all Cleaning Method sorted based on Interestingness (descending)
-![Step 3](images/Step3.jpg)
+![Step 3](images/Step3.png)
 
 #### Contributions
 *Rachit Chadha* (MS Computer Science) & *Brian Sang* (PhD Electrical and Computer Engineering) @ Georgia Institute of Technology.
