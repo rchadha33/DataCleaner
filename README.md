@@ -14,12 +14,7 @@ class DataCleaner:
        self._df = df
        self.issues = self._detect_issues()
        self._print_issues()
-       self.methods = [
-           "Median + Most Frequent","KNN Imputation",
-           "Outlier Removal with Median Imputation",
-           "Outlier Removal Ignoring Missing",
-           "Outlier Removal",
-       ]
+       self.methods = [...]
    @property
    def df(self):
        # Property to get the DataFrame
